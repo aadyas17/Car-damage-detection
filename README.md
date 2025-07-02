@@ -19,24 +19,38 @@ AI-powered car damage detection system with automated cost estimation and web in
 ![image](https://github.com/user-attachments/assets/d979bee5-5df4-4e92-a977-f1884866dffe)
 ![image](https://github.com/user-attachments/assets/0d97573a-b136-4a08-9ec0-7d92d17337f6)
 
-📋 Project Phases
-Setup & Installation - Environment preparation
-Basic Detection - Initial damage detection
-Segmentation - Detailed damage mapping
-Classification - Damage type & severity
-Cost Estimation - Repair cost calculation
-Web Interface - User-friendly interface
+----
 
-🎯 Results
-Accuracy: 85%+ damage detection
-Cost estimation within 15% of actual quotes
-Real-time processing < 5 seconds
+## 📋 Project Phases
 
-🔧 Technical Stack
-ML Framework: PyTorch, Ultralytics YOLO
-Web Interface: Gradio
-Image Processing: OpenCV, PIL
-Analysis: scikit-learn, pandas
+| Phase               | Description                          |
+|---------------------|--------------------------------------|
+| Setup & Installation | Environment preparation              |
+| Basic Detection      | Initial damage detection             |
+| Segmentation         | Detailed damage mapping              |
+| Classification       | Damage type & severity identification |
+| Cost Estimation      | Repair cost calculation              |
+| Web Interface        | User-friendly Gradio interface       |
+
+---
+
+## 🎯 Results
+
+- ✅ **Accuracy**: 85%+ damage detection
+- 💰 **Cost Estimation**: Within 15% of actual repair quotes
+- ⚡ **Processing Time**: Real-time (under 5 seconds)
+
+---
+
+## 🔧 Technical Stack
+
+| Component         | Tools Used                       |
+|-------------------|----------------------------------|
+| ML Framework      | PyTorch, Ultralytics YOLO        |
+| Web Interface     | Gradio                          |
+| Image Processing  | OpenCV, PIL                      |
+| Data Analysis     | scikit-learn, pandas             |
+
 
 ## 📊 Performance Metrics
 
